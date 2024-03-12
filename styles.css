@@ -91,12 +91,14 @@ img {
   margin-bottom: 18px;
   align-items: center;
 }
-.icon-loupe,
+.icon-loupe {
+  width: 18px;
+  height: 18px;
+}
 .icon-voice,
 .icon-lens {
   width: 24px;
   height: 24px;
-  background-color: transparent;
 }
 .btn-menu-icon {
   width: 100%;
